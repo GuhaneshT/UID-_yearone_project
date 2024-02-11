@@ -7,5 +7,5 @@ HTML,CSS,JS
 
 year of creation:2022
 
-![screen shot](/relative/path/to/img.jpg?raw=true "Optional Title")
-![screen shot 2](/relative/path/to/img.jpg?raw=true "Optional Title")
+![screen shot](pic2.png)
+![screen shot 2](pic3.png)
